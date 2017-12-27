@@ -1,4 +1,5 @@
 #include <Arduino.h>
+#include "ntp.h"
 
 void setup() {
     // put your setup code here, to run once:
